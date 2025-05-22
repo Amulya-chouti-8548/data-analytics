@@ -1,41 +1,47 @@
-# Data-Analytics
-Business Analyst 
+# 💼 Amulya Chouti  
+San Francisco, California | (504) 405-8530 | amulyachoutifas@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/amulya-chouti)
 
+## 🎯 Summary  
+**Business Analyst | Data-Driven Insights | Operations & Strategy | SQL, Python, Tableau, Power BI**
 
-### Education 
-Masters In International Business with STEM Analytics 
+2 years of experience in marketing and operations, leading social media campaigns and cross-functional project execution. Now pivoting to help businesses make better decisions by transforming data into strategic insights to drive efficiency and marketing performance. Seeking analyst roles to boost operational efficiency and support strategic goals.
 
+## 💼 Work Experience
 
-### Work Experience 
-Marketing Operations @Peoples School of Excellence 
-- created a good impact by levraging the school social media
-- made sure to have content tailored to a educational needs of a student
+**People’s School of Excellence | Hyderabad, India**  
+*Marketing Operations* (April 2022 – August 2024)  
+- Led enrollment marketing campaigns and operational initiatives for a 25-member team.
+- Analyzed social media metrics using Google Analytics and Facebook Insights to increase student engagement by 35%.
+- Supported curriculum improvements with insights from student feedback.
+- Optimized enrollment workflows and standardized documentation using SharePoint and Trello.
+- Organized large-scale events for 500+ attendees and handled budget allocations.
 
-### Projects 
-Uniqlo US Market Entry – Strategic Project Management 
-Developed comprehensive project management framework for Uniqlo's US market expansion.Applied traditional PM methodologies
-(WBS, Gantt charts, stakeholder analysis) alongside advanced tools to address complex challenges in global operations.Recommended
-implementation of Oracle SCM Cloud and blockchain solutions to overcome traditional PM limitations.
+**Blitz Jobs | Hyderabad, India**  
+*Recruitment & Outreach Intern* (June 2021 – August 2021)  
+- Conducted university outreach and built partnerships with TPOs.
+- Performed cold calls to promote job/internship opportunities.
+- Helped source candidates to fill multiple intern-level roles.
 
-Airbnb – Business Process Improvement Analysis 
-Analyzed Airbnb's booking-to-checkout process using industry-standard BPMN notation to identify operational vulnerabilities and
-workflow inefficiencies exposed during the pandemic.Developed future-state process maps incorporating sustainability initiatives and
-ESG criteria into the platform's core operational flow.Recommended platform modifications to enhance transparency, consistency, and
-sustainability across the guest-host interaction process.
+## 🎓 Education
 
-Supply Chain Analytics – Global Chain Management Simulation 
-Achieved exceptional results in Harvard's global supply chain simulation, securing 12+ board votes and profits exceeding $160
-million through effective strategic impl
+**Hult International Business School | San Francisco, CA**  
+*Master’s in International Business (STEM Analytics)*  
+Sep 2024 – Aug 2025  
 
-Harley's Corner — Digital Marketing & Brand Strategy 
-Developed digital marketing strategy through competitive analysis and audience segmentation.Created attribution model to track
-customer acquisition funnel and presented ROI-focused marketing roadmap to leadership team.
+## 📊 Relevant Projects
+**Lyft Bike Rentals Data Analysis**  
+- Conducted EDA on seasonal trends, weather impact, and user behavior
+- Used matplotlib and seaborn to build insightful visualizations
+- Provided business suggestions to improve off-season performance
 
-Tableau Dashboard — Marketing Performance Analytics 
-Engineered interactive marketing analytics dashboard integrating cross-channel campaign data to visualize customer journey and
-conversion paths.Recommended precision targeting strategy to executive stakeholders that optimized marketing spend allocation,
-improving ROAS while maintaining brand consistency across touch points.
+**Luxury Consumer Behavior Research**  
+- Analyzed survey data on brand image, exclusivity, and price perception
+- Delivered insights on customer motivation and luxury purchase decisions
+- 
+## 📈 Data & Analytics Skills
 
-Expedia Group – Customer Retention Strategy 
-Proposed a service expansion model focused on family-friendly offerings. Conducted market research and cost-benefit analysis,
-presenting data-backed recommendations to drive retention and revenue.
+**Libraries:** Pandas, Matplotlib, Numpy, Seaborn, Plotly  
+**Languages:** SQL, Python, Excel, Alteryx  
+**Tools:** Power BI, Tableau, Notion, Trello, Jupyter Notebook, Google Sheets  
+**Techniques:** Descriptive Stats, Regression, Hypothesis Testing, A/B Testing, Forecasting, Data Cleaning & EDA
