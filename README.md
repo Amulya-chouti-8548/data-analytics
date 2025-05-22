@@ -1,4 +1,4 @@
-# 💼 Amulya Chouti  
+# 👧 Amulya Chouti  
 San Francisco, California | (504) 405-8530 | amulyachoutifas@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/amulya-chouti)
 
